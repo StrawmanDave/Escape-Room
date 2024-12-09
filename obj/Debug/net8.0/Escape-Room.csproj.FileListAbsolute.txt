@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/Escape-Room.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/Escape-Room.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/Escape-Room.AssemblyInfo.cs
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/Escape-Room.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/Escape-Room.sourcelink.json
+/home/david/david-progamming-1400/Escape-Room/bin/Debug/net8.0/Escape-Room
+/home/david/david-progamming-1400/Escape-Room/bin/Debug/net8.0/Escape-Room.deps.json
+/home/david/david-progamming-1400/Escape-Room/bin/Debug/net8.0/Escape-Room.runtimeconfig.json
+/home/david/david-progamming-1400/Escape-Room/bin/Debug/net8.0/Escape-Room.dll
+/home/david/david-progamming-1400/Escape-Room/bin/Debug/net8.0/Escape-Room.pdb
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/Escape-Room.dll
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/refint/Escape-Room.dll
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/Escape-Room.pdb
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/Escape-Room.genruntimeconfig.cache
+/home/david/david-progamming-1400/Escape-Room/obj/Debug/net8.0/ref/Escape-Room.dll
