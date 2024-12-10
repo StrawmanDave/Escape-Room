@@ -1,4 +1,5 @@
 Username,Points,Levels
 (David, 69, 1)
 (UltimateGamer69, 901, 5)
-(Bob, 180, 1)
+(Bob, 300, 1)
+(bob, 122, 1)
